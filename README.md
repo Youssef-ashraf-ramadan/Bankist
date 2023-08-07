@@ -38,4 +38,4 @@ This is the template login details to use the bank functionality. The project do
 - Javascript
 - Flexbox
 - Grid
-- [👉Live Preview👈]()
+- [👉Live Preview👈](https://youssef-ashraf-ramadan.github.io/Bankist/)
